@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.aboutme{
+    border:2px solid black;
+    margin: 0px 150px;
+    box-shadow: 0px 0px 10px 2px black;
+    padding-bottom: 20px;
+}
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+}
+.parrafo_me{
+    margin: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+input{
+    margin: 0 0 0 50px;
+    width: 400px;
+    height: 50px;
+}
+.boton{
+    padding: 5px;
+    border-radius: 5px;
+}
+.body{
+    width: 100%;
+}
+img{
+    margin: 20px;
+}
